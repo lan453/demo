@@ -1,0 +1,6 @@
+export {default as classCom} from './components/classCom/classCom.vue'
+export {default as colleageCom} from './components/colleageCom/colleageCom.vue'
+export {default as majorCom} from './components/majorCom/majorCom.vue'
+export {default as instructorCom} from './components/instructorCom/instructorCom.vue'
+export {default as studentCom} from './components/studentCom/studentCom.vue'
+export {default as festivalCom} from './components/festivalCom/festivalCom.vue'
